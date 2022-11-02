@@ -12,3 +12,5 @@ console.log(message)
 const info =`${studentName} is ${studentAge} years old`
 console.log(info)
 
+const studentinfo = `Hello ${studentName}, Happy Diwali`
+
