@@ -3,6 +3,7 @@ const students = ["arrow","function","Normal","Function"]
  students.forEach((item,index)=> {
 
     console.log(item, index)
+    
  }
  ) 
 
